@@ -1,0 +1,8 @@
+name = Easy Template
+description = Тема для индексатора Yandex.Server
+core = 7.x
+version = "7.x-.1"
+
+regions[content] = Content
+
+features[] =
