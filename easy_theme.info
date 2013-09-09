@@ -5,4 +5,4 @@ version = "7.x-.1"
 
 regions[content] = Content
 
-features[] =
+features[] = ''
